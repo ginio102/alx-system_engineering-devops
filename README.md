@@ -1,1 +1,2 @@
-Shell Basics 0x00. Readme
+0x00 Shell Basics Tasks
+ 
